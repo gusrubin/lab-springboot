@@ -1,2 +1,2 @@
 # lab-springboot
-Spring Boot laboratory for test and training new knowledge
+Spring Boot laboratory for testing and training new knowledge
